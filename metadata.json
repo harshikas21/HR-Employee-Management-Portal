@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HR Employee Management Portal",
+  "description": "An application for HR managers to add, view, and remove employees from the company, and manage their login credentials.",
+  "requestFramePermissions": []
+}
